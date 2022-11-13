@@ -22,6 +22,8 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Projects
 
+[Command line course git practice](https://github.com/aulismanuel/cmdline-course), fall 2022
+
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[I'm working on a cool project with my friends!](https://www.animagios.com)
