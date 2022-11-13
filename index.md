@@ -4,11 +4,11 @@ layout: default
 
 ## Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hi, I'm Aulis. I study linguistic, both traditional and computational, in the University of Helsinki, and work as cabin crew. Yeah, it's tricky to study and work at the same time, both full time. On my freetime I enjoy going to orchestral concerts with my friends. And here in Bergen (where I'm based now) I love to walk on the steep cobblestone alleys with tiny stairs up and down, listening to music and enjoying the views.
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[Instagram](https://www.instagram.com/aulismanuel/), [GitHub](https://github.com/aulismanuel)
 
 ## Contact
 
