@@ -16,7 +16,7 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Corpus linguistics]([https://courses.helsinki.fi/enjoying-cheese-I](https://studies.helsinki.fi/opintotarjonta/cur/hy-opt-cur-2223-fb97876d-273b-4fdc-9638-e366ebbbca78)), fall 2022
 
 [Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
 
