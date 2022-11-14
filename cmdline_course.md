@@ -110,13 +110,13 @@ We learned about the root user / superuser and sudo commands. We also used Pytho
 ```python
 import nltk
 from nltk.tokenize import word_tokenize
-word_tokenize("string") % text string to be tokenized
-nltk.pos_tag(word) % Word, or array of words. This makes a tuple with POS tag attached to (each) word
+word_tokenize("string") # text string to be tokenized
+nltk.pos_tag(word) # Word, or array of words. This makes a tuple with POS tag attached to (each) word
 
 from nltk.stem.wordnet import WordNetLemmatizer
 lem = WordNetLemmatizer()
 lem.lemmatize("corpora", pos="n")
-% 'corpus'
+# 'corpus'
 ```
 
 ## Week 7
