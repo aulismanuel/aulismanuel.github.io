@@ -127,7 +127,7 @@ This week was all about Git. A comprehensive dive into version controlling and t
 And now we learned how to use Jekyll and how to make a webpage on Github. And how to write markdown!
 
 | This          | is            | a           |
-| ------------- |:-------------:| -----------:|
+| ------------- |-------------- | ----------- |
 | table         | just          | to          |
 | fulfill       | the           | requirement |
 
