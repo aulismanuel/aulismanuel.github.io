@@ -16,6 +16,7 @@ I really learned a lot on this course. Before this I only knew the basics of com
 + Week 6: File structure & programming II
 + Week 7: Git & Github
 + Week 8: Github Pages
++ Final note / embarrassing disclaimer
 
 ![image](https://cdn.newsapi.com.au/image/v1/8791f511b22d3b0abb8b52c575bff083?width=650 "Here's an image!")
 
@@ -131,3 +132,8 @@ And now we learned how to use Jekyll and how to make a webpage on Github. And ho
 | table         | just          | to          |
 | fulfill       | the           | requirement |
 
+## Final note
+
+I forgot to branch before so I created a branch just before starting to type this paragraph, and I'll merge back after this. About the CV: I simply refused to make it on Overleaf because I don't see it anywhere near this course's scope. But I put my existing CV online and put a link to the nav bar so I still think I meet the grading criterium here.
+
+Much love! This was kinda fun!
